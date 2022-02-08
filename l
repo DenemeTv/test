@@ -175,7 +175,7 @@ http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529490.m3u8
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529530.m3u8
 #EXTINF:0, CNN TURK HD	
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529500.m3u8
-#EXTINF:0, CNN TÜRK 	
+#EXTINF:0, CNN TÃœRK 	
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529468.m3u8
 #EXTINF:0, DA VINCI LEARNING HD	
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529648.m3u8
@@ -417,7 +417,7 @@ http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529550.m3u8
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529551.m3u8
 #EXTINF:0, MOVIE SMART TURK HD	
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529552.m3u8
-#EXTINF:0, MOVIE TÜRK 		
+#EXTINF:0, MOVIE TÃœRK 		
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529453.m3u8
 #EXTINF:0, NAT GEO		
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529653.m3u8
@@ -553,7 +553,7 @@ http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529527.m3u8
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529521.m3u8
 #EXTINF:0, TRT MUZIK HD	
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529634.m3u8
-#EXTINF:0, TRT MÜZIK 		
+#EXTINF:0, TRT MÃœZIK 		
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529450.m3u8
 #EXTINF:0, TRT SPOR 		
 http://cctv-port.com:8080/live/EUUb78/t33Wcgn8US/529461.m3u8
